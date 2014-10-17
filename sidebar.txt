@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tan:home|Door43 (tan)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tan|d43-tan repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tan/archive/master.zip|d43-tan.zip]]
+
+**Recent Changes**
+{{changes>ns = tan}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tan|Ethnologue data]]
+
